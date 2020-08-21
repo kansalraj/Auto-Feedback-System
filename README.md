@@ -1,4 +1,3 @@
-### Team name: <b>Supercalifragilisticexpialidocious Hackers</b>
 
 # AutoFeedbacker
 
